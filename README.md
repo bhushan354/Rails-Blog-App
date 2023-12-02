@@ -16,7 +16,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -80,9 +79,6 @@ bundle install
 
 ### Usage
 
-
-### Run tests
-
 To run tests, run the following command:
 ``` sh
   cd Rails-Blog-App
@@ -115,7 +111,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sagieramos/Rails-Blog-App/issues).
+Feel free to check the [issues page](https://github.com/bhushan354/Rails-Blog-App/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
