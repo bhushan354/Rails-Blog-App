@@ -6,9 +6,7 @@ class CreatePosts < ActiveRecord::Migration[7.1]
             t.text :text
             t.integer :comments_counter, default: 0
             t.integer :posts_counter, default: 0
-            t.integer
-            :likes_counter,
-            default: 0
+            t.integer :likes_counter, default: 0
 
             t.foreign_key :users, column: :author_id
             t.index :author_id
