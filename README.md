@@ -1,5 +1,6 @@
 <div align="center">
-
+  <img src="BhushanLogo.png" alt="logo" width="140"  height="auto" />
+  <br/>
   <h3><b>Rails-Blog-App</b></h3>
 
 </div>
