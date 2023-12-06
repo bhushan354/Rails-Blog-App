@@ -20,7 +20,7 @@ RSpec.describe Post, type: :model do
     subject.comments_counter = -1
     expect(subject).to_not(be_valid)
   end
-  
+
   it 'post_counter method should raise an error without user' do
     expect { subject.post_counter }.to raise_error(NoMethodError)
   end
